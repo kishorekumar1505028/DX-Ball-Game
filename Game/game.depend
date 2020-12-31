@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1463309150 source:e:\igraphics\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<windows.h>
+	<time.h>
+
+1462838794 e:\igraphics\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1463556846 source:c:\users\asus\desktop\igraphics\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<windows.h>
+	<time.h>
+
+1462838794 c:\users\asus\desktop\igraphics\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465356237 source:d:\igraphics4\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<math.h>
+
+1462788394 d:\igraphics4\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1466074145 source:d:\dx ball game\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<math.h>
+
+1462788394 d:\dx ball game\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1466096274 source:h:\dx ball game\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<math.h>
+
+1462788394 h:\dx ball game\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
